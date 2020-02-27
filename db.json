@@ -4,6 +4,7 @@
     { "id": 2, "name": "Hans", "last_access":1582538405},
     { "id": 3, "name": "Sepp", "last_access":1582707122},
     { "id": 4, "name": "Stefan", "last_access":1582707122},
-    { "id": 5, "name": "Jürgen", "last_access":1582707122}
+    { "id": 5, "name": "Jürgen", "last_access":1582707122},
+    { "id": 6, "name": "Martl", "last_access":1582707122}
   ]
 }
